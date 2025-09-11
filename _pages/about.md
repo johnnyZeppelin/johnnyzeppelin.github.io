@@ -6,7 +6,7 @@ subtitle: <a href='https://enweb.lnu.edu.cn/'>A Master's Student</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: aportrait.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>104 Building Zheli</p>
