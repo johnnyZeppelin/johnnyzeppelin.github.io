@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://enweb.lnu.edu.cn/'>A Master's Student</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>104 Building Zheli</p>
+    <p>66 Chongshan Mid. Rd</p>
+    <p>Shenyang, Liaoning 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently in the final year of my M.S. program at Liaoning University. I have previously been a visiting student at HKUST-GZ under the supervision of Dr. Bingzhuo Zhong, and at Peking University under the supervision of Dr. Hao Tang. I am now a research intern at vivo Co., Ltd. and the University of California, Merced, working under the supervision of Dr. Yiwei Wang.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include NLP, multimodal LLMs, human-like models, computer vision, Diffusion Models on T2I, Diffusion Models on LLM, efficient training and inference, multimedia quality assessment, controllable T2I, AIGC, world model, etc.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am actively seeking Ph.D. opportunities.
+
+
