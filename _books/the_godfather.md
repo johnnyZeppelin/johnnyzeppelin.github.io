@@ -13,7 +13,7 @@ finished:
 released: 1922
 stars: 5
 goodreads_review: # 6318556633
-status: Reading Intermittently
+status: reading  # Intermittently
 ---
 
 Ulysses is a modernist novel by the Irish writer James Joyce. Partially serialised in the American journal The Little Review from March 1918 to December 1920, the entire work was published in Paris by Sylvia Beach on 2 February 1922, Joyce's fortieth birthday. It is considered one of the most important works of modernist literature and a classic of the genre, having been called "a demonstration and summation of the entire movement".
