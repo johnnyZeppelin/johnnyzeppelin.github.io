@@ -413,22 +413,22 @@ ninja.data = [{
             window.location.href = "/blog/2015/code/";
           
         },
-      },{id: "post-a-post-with-images",
+      },{id: "post-images",
         
-          title: "a post with images",
+          title: "Images",
         
-        description: "this is what included images could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2015/images/";
           
         },
-      },{id: "post-a-post-with-formatting-and-links",
+      },{id: "post-formatting-and-links",
         
-          title: "a post with formatting and links",
+          title: "Formatting And Links",
         
-        description: "march &amp; april, looking forward to summer",
+        description: "",
         section: "Posts",
         handler: () => {
           
