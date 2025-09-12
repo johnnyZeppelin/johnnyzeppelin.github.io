@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - johnnyZeppelin
+  - med-llm
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - johnnyZeppelin/vlm-semvink
+  - johnnyZeppelin/mt-oiqa
+  - johnnyZeppelin/HRM-Idioma
+  - johnnyZeppelin/soiqa
+  - med-llm/tcm-llm-overrely-on-names
+  # - mathjax/MathJax
+  # - jpswalsh/academicons
