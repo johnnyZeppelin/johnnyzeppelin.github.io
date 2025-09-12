@@ -1,14 +1,14 @@
 github_users:
   - johnnyZeppelin
-  - med-llm
+  # - med-llm
 
 repo_description_lines_max: 2
 
 github_repos:
-  - johnnyZeppelin/vlm-semvink
-  - johnnyZeppelin/mt-oiqa
   - johnnyZeppelin/HRM-Idioma
-  - johnnyZeppelin/soiqa
+  - johnnyZeppelin/vlm-semvink
   - med-llm/tcm-llm-overrely-on-names
+  - johnnyZeppelin/mt-oiqa
+  - johnnyZeppelin/soiqa
   # - mathjax/MathJax
   # - jpswalsh/academicons
