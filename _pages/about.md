@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>104 Building Zheli</p>
     <p>66 Chongshan Mid. Rd</p>
-    <p>Shenyang, Liaoning 12345</p>
+    <p>Shenyang, Liaoning 110036/p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
