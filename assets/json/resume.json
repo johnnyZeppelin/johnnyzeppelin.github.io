@@ -2,10 +2,10 @@
   "basics": {
     "name": "Sifan Li",
     "label": "Master's Student",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/johnnyZeppelin/johnnyzeppelin.github.io/refs/heads/main/assets/img/aportrait.jpg",
     "email": "sflijohn@foxmail.com",
     "phone": "(86) 155-2437-6098",
-    "url": "https://johnnyzeppelin.github.io/myResume/",
+    "url": "https://johnnyzeppelin.github.io",
     "summary": "I am currently in the final year of my M.S. program at Liaoning University. I have previously been a visiting student at HKUST-GZ under the supervision of Dr. Bingzhuo Zhong, and at Peking University under the supervision of Dr. Hao Tang. I am now a research intern at vivo Co., Ltd. and the University of California, Merced, working under the supervision of Dr. Yiwei Wang. My research interests include NLP, multimodal LLMs, human-like models, computer vision, Diffusion Models on T2I, Diffusion Models on LLM, efficient training and inference, multimedia quality assessment, controllable T2I, AIGC, world model, etc. I am actively seeking Ph.D. opportunities.",
     "location": {
       "address": "1-1 Yanji South Rd",
