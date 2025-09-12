@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The paper [*SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking*] (https://johnnyzeppelin.github.io/vlm-semvink/ "Click to learn more!") has been accepted to the Main Conference of EMNLP 2025.
+The paper [*SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking*](https://johnnyzeppelin.github.io/vlm-semvink/ "Click to learn more!") has been accepted to the Main Conference of EMNLP 2025.
