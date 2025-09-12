@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-08-20 19:25:00+0700
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+The paper *SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking* has been accepted to the Main Conference of EMNLP 2025.
