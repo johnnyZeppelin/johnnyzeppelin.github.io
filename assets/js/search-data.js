@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-the-paper-semvink-advancing-vlms-semantic-understanding-of-optical-illusions-via-visual-global-thinking-has-been-accepted-to-the-main-conference-of-emnlp-2025",
+          title: 'The paper SemVink: Advancing VLMs’ Semantic Understanding of Optical Illusions via Visual Global...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
