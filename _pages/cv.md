@@ -1,10 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: Curriculum Vitae
+title: cv
 nav: true
 nav_order: 5
-cv_pdf: sfli_cv_2025.pdf # you can also use external links here
+cv_pdf: sfli_cv_2025.pdf, sfli_resume_pdf # you can also use external links here
 description: <!-- This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button. -->
 toc:
   sidebar: left
