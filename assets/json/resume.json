@@ -146,21 +146,21 @@
     "releaseDate": "2024-12-10",
     "url": "https://arxiv.org/abs/2412.02492",
     "summary": ""
-},
-{
+  },
+  {
     "name": "BPGI: A Brain-Perception Guided Interactive Network for Stereoscopic Omnidirectional Image Quality Assessment",
     "publisher": "IEEE",
     "releaseDate": "2025-09-16",
     "url": "https://doi.org/10.1109/OJID.2025.3610449",
     "summary": "IEEE Open Journal on Immersive Displays ( Volume: 2, Page(s): 81-88, September 2025)."
-}
-{
+  },
+  {
     "name": "Multi-Task Guided No-Reference Omnidirectional Image Quality Assessment With Feature Interaction",
     "publisher": "IEEE",
     "releaseDate": "2025-03-17",
     "url": "https://doi.org/10.1109/TCSVT.2025.3551723",
     "summary": "IEEE Transactions on Circuits and Systems for Video Technology ( Volume: 35, Issue: 9, Page(s): 8794-8806, September 2025)."
-}],
+  }],
   "skills": [{
     "name": "Web Development",
     "level": "Normally Proficient",
@@ -171,7 +171,7 @@
       "Tomcat Web Server"
     ]
   },
-{
+  {
     "name": "Programming Languages",
     "level": "Normally Proficient",
     "keywords": [
