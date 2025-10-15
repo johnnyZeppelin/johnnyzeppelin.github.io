@@ -18,5 +18,17 @@
   - firstname: ["Guangtao", "G.", "G. T."]
     url: http://multimedia.sjtu.edu.cn/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"yuan":
+  - firstname: ["Junsong", "J.", "J. S."]
+    url: https://cse.buffalo.edu/~jsyuan/
+
+"hooi":
+  - firstname: ["Bryan", "Kuen-Yew", "B.", "K. Y.", "B. K.", "B. K. Y.", "K."]
+    url: https://www.comp.nus.edu.sg/cs/people/bhooi/
+
+"peng":
+  - firstname: ["Nanyun", "N.", "N. Y.", "Violet", "V.", "N. V."]
+    url: https://violetpeng.github.io/
+
+  # - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+  #   url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
