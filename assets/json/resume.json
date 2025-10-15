@@ -120,6 +120,13 @@
     "url": "https://cet.neea.edu.cn/html1/report/16123/201-1.htm"
   }],
   "publications": [{
+    "name": "Vision Language Models Map Logos to Text via Semantic Entanglement in the Visual Projector",
+    "publisher": "arXiv",
+    "releaseDate": "2025-10-14",
+    "url": "https://arxiv.org/abs/2510.12287",
+    "summary": "Preprint"
+  },
+  {
     "name": "SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking",
     "publisher": "EMNLP 2025",
     "releaseDate": "2025-06-18",
@@ -141,11 +148,18 @@
     "summary": ""
 },
 {
+    "name": "BPGI: A Brain-Perception Guided Interactive Network for Stereoscopic Omnidirectional Image Quality Assessment",
+    "publisher": "IEEE",
+    "releaseDate": "2025-09-16",
+    "url": "https://doi.org/10.1109/OJID.2025.3610449",
+    "summary": "IEEE Open Journal on Immersive Displays ( Volume: 2, Page(s): 81-88, September 2025)."
+}
+{
     "name": "Multi-Task Guided No-Reference Omnidirectional Image Quality Assessment With Feature Interaction",
     "publisher": "IEEE",
     "releaseDate": "2025-03-17",
     "url": "https://doi.org/10.1109/TCSVT.2025.3551723",
-    "summary": "IEEE Transactions on Circuits and Systems for Video Technology ( Volume: 35, Issue: 9, September 2025)."
+    "summary": "IEEE Transactions on Circuits and Systems for Video Technology ( Volume: 35, Issue: 9, Page(s): 8794-8806, September 2025)."
 }],
   "skills": [{
     "name": "Web Development",
