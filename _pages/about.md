@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://enweb.lnu.edu.cn/'>A Master's Student</a>.
+subtitle: <a href='http://english.ict.cas.cn/'>Ph.D. Candidate in Computer Science</a>
 
 profile:
   align: right
   image: aportrait.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>104 Building Zheli</p>
-    <p>66 Chongshan Mid. Rd</p>
-    <p>Shenyang, Liaoning 110036</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
