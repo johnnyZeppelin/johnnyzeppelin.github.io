@@ -233,7 +233,52 @@
       "url": "https://aaai.org/",
       "startDate": "2026-01-01",
       "endDate": "2026-12-31",
-      "summary": "Service for AAAI 2026.",
+      "summary": "AAAI 2026.",
+      "highlights": []
+    },
+    {
+      "organization": "Association for the Advancement of Artificial Intelligence (AAAI)",
+      "position": "Reviewer",
+      "url": "https://aaai.org/",
+      "startDate": "2027-01-01",
+      "endDate": "2027-12-31",
+      "summary": "AAAI 2027.",
+      "highlights": []
+    },
+    {
+      "organization": "Conference on Neural Information Processing Systems (NeurIPS)",
+      "position": "Reviewer",
+      "url": "https://neurips.cc/",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "summary": "NeurIPS 2026.",
+      "highlights": []
+    },
+    {
+      "organization": "Conference on Language Modeling (COLM)",
+      "position": "Reviewer",
+      "url": "https://colmweb.org/",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "summary": "COLM 2026.",
+      "highlights": []
+    },
+    {
+      "organization": "Association for the Advancement of Artificial Intelligence (AAAI)",
+      "position": "Reviewer",
+      "url": "https://aaai.org/",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "summary": "AAAI 2026.",
+      "highlights": []
+    },
+    {
+      "organization": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "position": "Reviewer",
+      "url": "https://cvpr.thecvf.com/",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "summary": "CVPR 2025.",
       "highlights": []
     }
   ],

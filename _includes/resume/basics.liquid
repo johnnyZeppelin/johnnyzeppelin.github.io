@@ -1,28 +1,29 @@
-<table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
-  {% assign skip_basics = 'image,profiles,location' | split: ',' %}
-  {% for content in data[1] %}
-    {%
-      if (content[1] == "") or (skip_basics contains
-      content[0])
-    %}
-      {% continue %}
-    {% endif %}
+{% assign basics = data[1] %}
 
-    <tr>
-      <td class="p-1 pr-2 font-weight-bold">
-        <b>{{ content[0] | capitalize }}</b>
-      </td>
-      <td class="p-1 pl-2 font-weight-light text">
-        {% if content[0] == 'url' %}
-          <a href="{{ content[1] }}" target="_blank" rel="noopener noreferrer">{{ content[1] }}</a>
-        {% elsif content[0] == 'email' %}
-          <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
-        {% elsif content[0] == 'phone' %}
-          <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
-        {% else %}
-          {{ content[1] }}
-        {% endif %}
-      </td>
-    </tr>
-  {% endfor %}
-</table>
+<div class="cv-basics">
+  <h4 class="font-weight-bold mb-1">{{ basics.name }}</h4>
+  {% if basics.label %}
+    <p class="mb-2">{{ basics.label }}</p>
+  {% endif %}
+
+  <p class="mb-3">
+    {% if basics.email %}
+      <a href="mailto:{{ basics.email }}">{{ basics.email }}</a>
+    {% endif %}
+    {% if basics.url %}
+      {% if basics.email %} | {% endif %}
+      <a href="{{ basics.url }}" target="_blank" rel="noopener noreferrer">{{ basics.url | remove: 'https://' | remove: 'http://' }}</a>
+    {% endif %}
+    {% for profile in basics.profiles %}
+      {% if profile.network == 'Google Scholar' %}
+        | scholar:{{ profile.username }}
+      {% elsif profile.network == 'GitHub' %}
+        | <a href="{{ profile.url }}" target="_blank" rel="noopener noreferrer">github.com/{{ profile.username }}</a>
+      {% endif %}
+    {% endfor %}
+  </p>
+
+  {% if basics.summary %}
+    <p class="mb-0">{{ basics.summary }}</p>
+  {% endif %}
+</div>
