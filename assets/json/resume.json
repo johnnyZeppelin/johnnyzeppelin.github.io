@@ -1,219 +1,246 @@
 {
   "basics": {
     "name": "Sifan Li",
-    "label": "Master's Student",
+    "label": "Ph.D. Candidate in Computer Science",
     "image": "https://raw.githubusercontent.com/johnnyZeppelin/johnnyzeppelin.github.io/refs/heads/main/assets/img/aportrait.jpg",
     "email": "sflijohn@foxmail.com",
-    "phone": "(86) 155-2437-6098",
     "url": "https://johnnyzeppelin.github.io",
-    "summary": "I am currently in the final year of my M.S. program at Liaoning University. I have previously been a visiting student at HKUST-GZ under the supervision of Dr. Bingzhuo Zhong, and at Peking University under the supervision of Dr. Hao Tang. I am now a research intern at vivo Co., Ltd. and the University of California, Merced, working under the supervision of Dr. Yiwei Wang. My research interests include NLP, multimodal LLMs, human-like models, computer vision, Diffusion Models on T2I, Diffusion Models on LLM, efficient training and inference, multimedia quality assessment, controllable T2I, AIGC, world model, etc. I am actively seeking Ph.D. opportunities.",
-    "location": {
-      "address": "1-1 Yanji South Rd",
-      "postalCode": "113000",
-      "city": "Fushun",
-      "countryCode": "CN",
-      "region": "Liaoning"
+    "summary": "I am currently a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences. I am also an assistant researcher in AI4Science at Shanghai AI Lab and a research intern at the University of California, Merced, working under the supervision of Dr. Yiwei Wang. My research interests include NLP, multimodal LLMs, VLMs, AI interpretability, agentic systems, reinforcement learning, AI4Science, efficient training, and computer vision.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "johnnyZeppelin",
+        "url": "https://github.com/johnnyZeppelin"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Gc1bAVwAAAAJ",
+        "url": "https://scholar.google.com/citations?user=Gc1bAVwAAAAJ"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Shanghai Artificial Intelligence Laboratory",
+      "position": "Assistant Researcher in AI4Science",
+      "url": "https://www.shlab.org.cn/",
+      "startDate": "2026-04-01",
+      "endDate": "Present",
+      "summary": "Research on AI4Science and foundation-model systems.",
+      "highlights": []
     },
-    "profiles": [{
-      "network": "Github",
-      "username": "johnnyZeppelin",
-      "url": "https://github.com/johnnyZeppelin"
-    }]
-  },
-  "work": [{
-    "name": "vivo Mobile Communication Co., Ltd.",
-    "position": "Assistant Algorithm Engineer in NLP",
-    "url": "https://www.vivo.com/en",
-    "startDate": "2025-06-16",
-    "endDate": "Now",
-    "summary": "Work as a research intern in NLP, focusing on large language models and their applications.",
-    "highlights": [
-    ]
-  },
-  {
-    "name": "University of California, Merced",
-    "position": "Research Intern",
-    "url": "https://www.ucmerced.edu/",
-    "startDate": "2024-09-01",
-    "endDate": "Now",
-    "summary": "Work as a research intern in NLP advised by Asst. Prof. Yiwei Wang, focusing on large language models and their applications.",
-    "highlights": [
-      "Publish a paper in EMNLP 2025 Main Conference."
-    ]
-  },
-  {
-    "name": "Peking University",
-    "position": "Visiting Student",
-    "url": "https://english.pku.edu.cn/",
-    "startDate": "2024-06-01",
-    "endDate": "2025-06-01",
-    "summary": "Work as a research intern in CV and NLP advised by Asst. Prof. Hao Tang.",
-    "highlights": [
-      "Make papers."
-    ]
-  },
-  {
-    "name": "HKUST-GZ",
-    "position": "Research Assistant",
-    "url": "https://www.hkust-gz.edu.cn/",
-    "startDate": "2023-12-31",
-    "endDate": "2024-12-31",
-    "summary": "Work as a research assisstant in CV and 3D reconstruciton, advised by Prof. Bingzhuo Zhong.",
-    "highlights": [
-      "Make papers."
-    ]
-  }],
-  "volunteer": [
-],
+    {
+      "name": "University of California, Merced",
+      "position": "Research Intern",
+      "url": "https://www.ucmerced.edu/",
+      "startDate": "2024-09-01",
+      "endDate": "Present",
+      "summary": "Advised by Asst. Prof. Yiwei Wang.",
+      "highlights": [
+        "Published SemVink at the EMNLP 2025 Main Conference."
+      ]
+    },
+    {
+      "name": "vivo Mobile Communication Co., Ltd.",
+      "position": "Assistant Algorithm Engineer in NLP",
+      "url": "https://www.vivo.com/en",
+      "startDate": "2025-06-01",
+      "endDate": "2026-04-01",
+      "summary": "Research and engineering work on large language models and NLP applications.",
+      "highlights": []
+    },
+    {
+      "name": "Peking University",
+      "position": "Visiting Student",
+      "url": "https://english.pku.edu.cn/",
+      "startDate": "2024-06-01",
+      "endDate": "2025-06-01",
+      "summary": "Advised by Asst. Prof. Hao Tang.",
+      "highlights": []
+    },
+    {
+      "name": "Hong Kong University of Science and Technology (Guangzhou)",
+      "position": "Research Assistant",
+      "url": "https://www.hkust-gz.edu.cn/",
+      "startDate": "2023-12-01",
+      "endDate": "2024-12-01",
+      "summary": "Advised by Prof. Bingzhuo Zhong, Dr. rer. nat.",
+      "highlights": []
+    }
+  ],
   "education": [
-  {
-    "institution": "Liaoning University",
-    "url": "https://enweb.lnu.edu.cn/",
-    "area": "Computer Science and Technology",
-    "studyType": "Master of Science",
-    "startDate": "2023-09-01",
-    "endDate": "Now",
-    "score": "",
-    "courses": [
-    ]
-},
-{
-    "institution": "Shenyang Jianzhu University",
-    "url": "https://english.sjzu.edu.cn/",
-    "area": "Computer Science and Technology",
-    "studyType": "Bachelor of Engineering",
-    "startDate": "2017-09-03",
-    "endDate": "2021-06-21",
-    "score": "3.7/4.0",
-    "courses": [
-    ]
-}
-],
-  "awards": [{
-    "title": "1st Prize in New Media Designing Contest for Undergraduates in Liaoning Province",
-    "date": "2018-11-01",
-    "awarder": "Liaoning Province",
-    "summary": ""
-  },
-  {
-    "title": "1st Prize in Mobile Applications Developing Contest for Undergraduates in Liaoning Province",
-    "date": "2018-12-01",
-    "awarder": "Liaoning Province",
-    "summary": ""
-},
-{
-    "title": "2nd Prize in Computer Designing Contest for Undergraduates in Liaoning Province",
-    "date": "2019-11-01",
-    "awarder": "Liaoning Province",
-    "summary": ""
-},
-{
-    "title": "Successful Participant Prize in MCM/ICM 2019",
-    "date": "2019-05-01",
-    "awarder": "MAA",
-    "summary": ""
-}],
-  "certificates": [{
-    "name": "CET-6",
-    "date": "2018-09-01",
-    "issuer": "National Education Examinations Authority (NEEA)",
-    "url": "https://cet.neea.edu.cn/html1/report/16123/201-1.htm"
-  }],
-  "publications": [{
-    "name": "Vision Language Models Map Logos to Text via Semantic Entanglement in the Visual Projector",
-    "publisher": "arXiv",
-    "releaseDate": "2025-10-14",
-    "url": "https://arxiv.org/abs/2510.12287",
-    "summary": "Preprint"
-  },
-  {
-    "name": "SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking",
-    "publisher": "EMNLP 2025",
-    "releaseDate": "2025-06-18",
-    "url": "https://arxiv.org/abs/2506.02803",
-    "summary": "Main Conference"
-  },
-  {
-    "name": "Do \"New Snow Tablets\" Contain Snow? Large Language Models Over-Rely on Names to Identify Ingredients of Chinese Drugs",
-    "publisher": "arXiv",
-    "releaseDate": "2025-04-15",
-    "url": "https://arxiv.org/abs/2504.03786",
-    "summary": ""
-  },
-  {
-    "name": "Boosting Vision-Language Models' Comprehension of Optical Illusions through Visual Global Thinking",
-    "publisher": "arXiv",
-    "releaseDate": "2024-12-10",
-    "url": "https://arxiv.org/abs/2412.02492",
-    "summary": ""
-  },
-  {
-    "name": "BPGI: A Brain-Perception Guided Interactive Network for Stereoscopic Omnidirectional Image Quality Assessment",
-    "publisher": "IEEE",
-    "releaseDate": "2025-09-16",
-    "url": "https://ieeexplore.ieee.org/document/11165215",
-    "summary": "IEEE Open Journal on Immersive Displays ( Volume: 2, Page(s): 81-88, September 2025)."
-  },
-  {
-    "name": "Multi-Task Guided No-Reference Omnidirectional Image Quality Assessment With Feature Interaction",
-    "publisher": "IEEE",
-    "releaseDate": "2025-03-17",
-    "url": "https://doi.org/10.1109/TCSVT.2025.3551723",
-    "summary": "IEEE Transactions on Circuits and Systems for Video Technology ( Volume: 35, Issue: 9, Page(s): 8794-8806, September 2025)."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Normally Proficient",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Tomcat Web Server"
-    ]
-  },
-  {
-    "name": "Programming Languages",
-    "level": "Normally Proficient",
-    "keywords": [
-      "Python",
-      "C", 
-      "C++", 
-      "C#", 
-      "Java", 
-      "sql", 
-      "LATEX"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Fluent speaker"
-  },
-{
-    "language": "Chinese",
-    "fluency": "Native speaker"
-},
-{
-    "language": "Spanish",
-    "fluency": "Basic communication"
-}],
-  "interests": [{
-    "name": "Sports",
-    "keywords": [
-      "Football",
-      "Basketball",
-      "Tennis"
-    ]
-  }],
-  "references": [{
-    "name": "",
-    "reference": ""
-  }],
-  "projects": [{
-    "name": "HRM-Idioma",
-    "startDate": "2025-08-01",
-    "endDate": "2025-09-01",
-    "description": "Hierachical Reasoning Model pretrained with language data.",
-    "highlights": [],
-    "url": "https://github.com/johnnyZeppelin/HRM-Idioma"
-  }]
+    {
+      "institution": "Institute of Computing Technology, Chinese Academy of Sciences",
+      "url": "http://english.ict.cas.cn/",
+      "area": "Computer Science",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2026-09-01",
+      "endDate": "Present",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Liaoning University",
+      "url": "https://enweb.lnu.edu.cn/",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2023-09-01",
+      "endDate": "2026-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Shenyang Jianzhu University",
+      "url": "https://english.sjzu.edu.cn/",
+      "area": "Computer Science and Technology",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2017-09-01",
+      "endDate": "2021-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "publications": [
+    {
+      "name": "GeoSVG-RL: Geometry-Aware Reinforcement Learning for Layout-Constrained Text-to-SVG Diagram Generation",
+      "publisher": "arXiv",
+      "releaseDate": "2026-05-31",
+      "url": "https://arxiv.org/abs/2605.25447",
+      "summary": "Preprint"
+    },
+    {
+      "name": "OptiSQL: Executable SQL Generation from Optical Tokens",
+      "publisher": "arXiv",
+      "releaseDate": "2026-01-22",
+      "url": "https://arxiv.org/abs/2601.13695",
+      "summary": "Preprint"
+    },
+    {
+      "name": "SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking",
+      "publisher": "EMNLP 2025 Main Conference",
+      "releaseDate": "2025-11-01",
+      "url": "https://aclanthology.org/2025.emnlp-main.1381/",
+      "summary": "Oral presentation"
+    },
+    {
+      "name": "Vision Language Models Map Logos to Text via Semantic Entanglement in the Visual Projector",
+      "publisher": "arXiv",
+      "releaseDate": "2025-10-14",
+      "url": "https://arxiv.org/abs/2510.12287",
+      "summary": "Preprint"
+    },
+    {
+      "name": "Do \"New Snow Tablets\" Contain Snow? Large Language Models Over-Rely on Names to Identify Ingredients of Chinese Drugs",
+      "publisher": "arXiv",
+      "releaseDate": "2025-04-15",
+      "url": "https://arxiv.org/abs/2504.03786",
+      "summary": "Preprint"
+    },
+    {
+      "name": "Replace in Translation: Boost Concept Alignment in Counterfactual Text-to-Image",
+      "publisher": "arXiv",
+      "releaseDate": "2025-05-21",
+      "url": "https://arxiv.org/abs/2505.14341",
+      "summary": "Preprint"
+    },
+    {
+      "name": "MMIFN: A Multi-Modal Interactive Fusion Network for Omnidirectional Image Quality Assessment",
+      "publisher": "IEEE Transactions on Multimedia",
+      "releaseDate": "2026-01-01",
+      "url": "https://doi.org/10.1109/TMM.2026.3700770",
+      "summary": "Early Access; first student author"
+    },
+    {
+      "name": "TFFN: Three-Branch Feature Fusion Network for Stereoscopic Omnidirectional Image Quality Assessment",
+      "publisher": "IEEE Transactions on Multimedia",
+      "releaseDate": "2026-01-01",
+      "url": "https://doi.org/10.1109/TMM.2026.3664949",
+      "summary": "Early Access; first student author"
+    },
+    {
+      "name": "BPGI: A Brain-Perception Guided Interactive Network for Stereoscopic Omnidirectional Image Quality Assessment",
+      "publisher": "IEEE Open Journal on Immersive Displays",
+      "releaseDate": "2025-09-01",
+      "url": "https://doi.org/10.1109/OJID.2025.3610449",
+      "summary": "First student author"
+    },
+    {
+      "name": "Multi-Task Guided No-Reference Omnidirectional Image Quality Assessment With Feature Interaction",
+      "publisher": "IEEE Transactions on Circuits and Systems for Video Technology",
+      "releaseDate": "2025-03-17",
+      "url": "https://doi.org/10.1109/TCSVT.2025.3551723",
+      "summary": "First student author"
+    },
+    {
+      "name": "AudioRouter: Data Efficient Audio Understanding via RL based Dual Reasoning",
+      "publisher": "arXiv",
+      "releaseDate": "2026-02-13",
+      "url": "https://arxiv.org/abs/2602.10439",
+      "summary": "Preprint"
+    },
+    {
+      "name": "Detecting and Mitigating Insertion Hallucination in Video-to-Audio Generation",
+      "publisher": "arXiv",
+      "releaseDate": "2025-10-10",
+      "url": "https://arxiv.org/abs/2510.08078",
+      "summary": "Preprint"
+    },
+    {
+      "name": "Image Aesthetics Assessment Based on Visual Perception and Textual Semantic Understanding",
+      "publisher": "Digital Multimedia Communications",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.1007/978-981-97-3626-3_4",
+      "summary": "Conference chapter"
+    },
+    {
+      "name": "A Multimodal Fake News Detection Model with Self-supervised Unimodal Label Generation",
+      "publisher": "Advanced Intelligent Computing Technology and Applications",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.1007/978-981-97-5603-2_11",
+      "summary": "Conference chapter"
+    }
+  ],
+  "projects": [
+    {
+      "name": "GeoSVG-RL",
+      "startDate": "2026-05-01",
+      "endDate": "Present",
+      "description": "Geometry-aware reinforcement learning for layout-constrained text-to-SVG diagram generation.",
+      "highlights": [],
+      "url": "https://arxiv.org/abs/2605.25447"
+    },
+    {
+      "name": "OptiSQL",
+      "startDate": "2026-01-01",
+      "endDate": "Present",
+      "description": "Executable SQL generation from optical tokens.",
+      "highlights": [],
+      "url": "https://arxiv.org/abs/2601.13695"
+    },
+    {
+      "name": "SemVink",
+      "startDate": "2025-06-01",
+      "endDate": "Present",
+      "description": "Benchmarking and improving VLM semantic understanding of optical illusions through visual global thinking.",
+      "highlights": [],
+      "url": "https://johnnyzeppelin.github.io/vlm-semvink/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Association for the Advancement of Artificial Intelligence (AAAI)",
+      "position": "Senior Area Chair",
+      "url": "https://aaai.org/",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "summary": "Service for AAAI 2026.",
+      "highlights": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": []
 }

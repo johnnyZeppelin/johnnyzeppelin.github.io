@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2025-10-07 10:30:00+0800
+date: 2026-04-01 10:00:00+0800
 inline: true
-related_posts: true
+related_posts: false
 ---
 
-The paper [*SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking*](https://johnnyzeppelin.github.io/vlm-semvink/ "Click to learn more!")
-will be presented in A106-107 as an oral session in the Main Conference of EMNLP 2025 in Suzhou.
+I started as an assistant researcher in AI4Science at [Shanghai AI Lab](https://www.shlab.org.cn/).

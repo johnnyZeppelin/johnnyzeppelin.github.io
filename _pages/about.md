@@ -19,12 +19,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Ph.D. candidate at the <a href='http://english.ict.cas.cn/'>Institute of Computing Technology</a>, <a href='https://english.cas.cn/'>Chinese Academy of Sciences</a>. I am also a research intern at <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a> and the <a href='https://www.ucmerced.edu/'>University of California, Merced</a>, working under the supervision of <a href='https://wangywust.github.io/'>Dr. Yiwei Wang</a>.
+I am currently a Ph.D. candidate at the <a href='http://english.ict.cas.cn/'>Institute of Computing Technology</a>, <a href='https://english.cas.cn/'>Chinese Academy of Sciences</a>. I am also an assistant researcher in AI4Science at <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a> and a research intern at the <a href='https://www.ucmerced.edu/'>University of California, Merced</a>, working under the supervision of <a href='https://wangywust.github.io/'>Dr. Yiwei Wang</a>.
 
-My research interests include NLP, multimodal LLMs, VLMs, AI interpretability, agentic systems, reinforcement learning, AI4Science, efficient training, computer vision, etc.
+My research interests include NLP, multimodal LLMs, vision-language models, AI interpretability, agentic systems, reinforcement learning, AI4Science, efficient training, and computer vision.
 
