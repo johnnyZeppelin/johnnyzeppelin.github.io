@@ -24,9 +24,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently in the final year of my M.S. program at Liaoning University. I have previously been a visiting student at HKUST-GZ under the supervision of Dr. Bingzhuo Zhong, and at Peking University under the supervision of Dr. Hao Tang. I am now a research intern at vivo Co., Ltd. and the University of California, Merced, working under the supervision of Dr. Yiwei Wang.
-
-My research interests include NLP, multimodal LLMs, human-like models, computer vision, Diffusion Models on T2I, Diffusion Models on LLM, efficient training and inference, multimedia quality assessment, controllable T2I, AIGC, world model, etc.
-
-I am actively seeking Ph.D. opportunities.
+I am currently a Ph.D. candidate at the <a href='http://english.ict.cas.cn/'>Institute of Computing Technology</a>, <a href='https://english.cas.cn/'>Chinese Academy of Sciences</a>. I am also a research intern at <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a> and the <a href='https://www.ucmerced.edu/'>University of California, Merced</a>, working under the supervision of <a href='https://wangywust.github.io/'>Dr. Yiwei Wang</a>.
 
